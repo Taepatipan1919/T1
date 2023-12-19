@@ -1,1 +1,1 @@
-console.assert('dsadas');
+console.log('dsadas');
